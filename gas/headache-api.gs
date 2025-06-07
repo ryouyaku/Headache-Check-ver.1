@@ -15,7 +15,7 @@ function doPost(e) {
     }
     
     // スプレッドシートを開く
-    const spreadsheetId = "1BW5Mo7aKafh2V-h2Js9v59LePw6v3iCOuwEeB5WXvmw"; // あなたのスプレッドシートIDに置き換えてください
+    const spreadsheetId = "1o66XhwysOLVElAk7uQEM_mBunpiPYoIj9Y3D1GRaWkY"; // あなたのスプレッドシートIDに置き換えてください
     const spreadsheet = SpreadsheetApp.openById(spreadsheetId);
     
     // 診断結果シートの取得または作成
