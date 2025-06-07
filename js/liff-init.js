@@ -1,7 +1,7 @@
 // LIFF初期化用スクリプト
 document.addEventListener('DOMContentLoaded', function() {
     // LIFF IDを設定（LINE Developersで取得したLIFF IDを使用）
-    const liffId = "2007221255-zN1Rpa0B"; // 実際のLIFF IDに置き換えてください
+    const liffId = "2007540648-o7Bw3VOn"; // 実際のLIFF IDに置き換えてください
     
     // LIFFの初期化
     initializeLiff(liffId);
